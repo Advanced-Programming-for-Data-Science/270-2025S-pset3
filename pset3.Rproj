@@ -1,0 +1,16 @@
+Version: 1.0
+ProjectId: f426ec5a-9330-4c37-9ba2-d9a3177b5b97
+
+RestoreWorkspace: Default
+SaveWorkspace: Default
+AlwaysSaveHistory: Default
+
+EnableCodeIndexing: Yes
+UseSpacesForTab: Yes
+NumSpacesForTab: 2
+Encoding: UTF-8
+
+RnwWeave: Sweave
+LaTeX: XeLaTeX
+
+ProjectName: pset3
